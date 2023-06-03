@@ -1,0 +1,295 @@
+* {
+}
+
+.nav-item {
+  margin-left: 2rem;
+}
+.nav-mfk {
+  font-size: 2rem;
+}
+.inci {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: white;
+  z-index: 1;
+}
+.nav-mfk {
+  color: #3cb815;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.div-mfk {
+  margin-left: 2rem;
+}
+.navbar {
+  box-shadow: 0 4px 2px -2px gray;
+}
+
+.inner-container img {
+  /* background-image: url("./carousel-1.jpg"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  /* max-height: 100%; */
+}
+
+.div-header {
+  width: 70%;
+}
+
+.div-text {
+  top: 28%;
+}
+
+.div-buttons {
+  margin-left: 5rem;
+  margin-top: 3rem;
+}
+
+.div-inner-about-container {
+  width: 85%;
+  margin: 0 auto;
+}
+
+.inner-services-section {
+  background: url("./bg-icon.png") center center repeat;
+  background-size: contain;
+  background-color: rgb(242, 242, 242);
+}
+.inner-services-section-container {
+  width: 80%;
+}
+
+.inner-services-section {
+  top: 228%;
+}
+
+.div-header-inner {
+  width: 42%;
+}
+
+.head-h1 {
+  border: 1px solid green;
+  width: 50px;
+}
+.head-h2 {
+  border: 1px solid red;
+  width: 70px;
+}
+
+.div-head-hr {
+  height: 5px;
+}
+
+.card {
+  width: 35%;
+}
+.card-img {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.card img {
+  width: 60px;
+  height: 60px;
+}
+
+.div-card-p {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.green-line {
+  width: 50px;
+  border: 1px solid green;
+}
+
+.red-line {
+  width: 70px;
+  border: 1px solid red;
+}
+
+.general-product-section {
+  margin-top: 6rem;
+}
+
+.pr-content-p {
+  width: 90% !important;
+}
+
+.div-pr-card-1 {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  width: 23% !important;
+}
+
+.div-a {
+  border: 1px solid rgb(216, 211, 211);
+  height: 2rem !important;
+  font-size: 0.8rem;
+  padding-top: 0.3rem;
+}
+
+.new-button {
+  position: absolute;
+  top: 50;
+}
+
+.green-section-container {
+  width: 80%;
+}
+.green-section {
+  background-color: #3cb815 !important;
+}
+.div-green-line {
+  border: 1 solid green;
+  width: 60px;
+  height: 1px;
+}
+.div-satisf-p {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.sat-card {
+  width: 40%;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}
+
+.testimonial {
+  width: 55px;
+  height: 55px;
+  border-radius: 50%;
+}
+
+.sat-card-info p {
+  opacity: 0.8;
+}
+
+.sat-card-p {
+  font-size: 0.9rem;
+}
+
+.bg-green {
+  background-color: #3cb815;
+}
+.gr-quote {
+  color: #3cb815;
+  position: absolute;
+  width: 30rem !important;
+  top: calc(0% - 30px);
+}
+
+.red-quote {
+  color: red;
+}
+
+.div-blog-p {
+  width: 28%;
+}
+
+.div-blog-card {
+  width: auto;
+}
+
+.blog-content {
+  width: 70%;
+}
+
+.blog-img-p {
+  font-size: 0.94rem;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.bg-gray {
+  background-color: #d7d7d9;
+}
+
+.blog-img-p hr {
+  opacity: 0.2;
+}
+
+.blog-adm {
+  font-size: 0.9rem;
+}
+
+.footer-section {
+  background-color: #111;
+}
+.footer-card-inner {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.footer-card-inner span-card:nth-child(2n + 1) {
+  color: #3cb815;
+}
+
+.footer-card-inner span-card:nth-child(2n) {
+  color: red;
+}
+.footer-card-inner a {
+  font-size: 1.4rem;
+}
+
+.footer-card-inner .mfk {
+  font-size: 2rem;
+}
+
+.footer-card-inner p {
+  font-size: 1rem !important;
+  color: #d7d7d9;
+  opacity: 0.7;
+}
+
+.fa-facebook-f {
+  font-size: 0.875rem !important;
+  padding: 0.28rem;
+}
+
+.footer-card {
+  width: 15%;
+}
+
+.footer-section-inner {
+  width: 85%;
+}
+
+.footer-section {
+  margin-top: 5rem !important;
+}
+
+.footer-card-1 {
+  width: 20%;
+}
+
+.participate {
+  background-color: transparent;
+  border: 1px solid white;
+}
+
+.participate input {
+  background-color: transparent;
+  outline: none;
+  border: 0;
+  width: 70%;
+}
+.participate button {
+  height: 45px;
+  width: 27%;
+  border: 0;
+}
+
+.footer-section hr {
+  opacity: 0.9 !important;
+}
+
+.copy-link {
+  font-weight: bold;
+}
+
+.text-green {
+  color: #3cb815;
+}
